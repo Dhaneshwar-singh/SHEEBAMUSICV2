@@ -3,3 +3,4 @@ build:
     worker: Dockerfile
 run:
   worker: python3 -m VCsMusicBot
+  worker: node-js -m VCsMusicBot

@@ -1,4 +1,4 @@
-Pyrogram
+pip3 install git+https://github.com/pyrogram/pyrogram -U
 TgCrypto
 py-tgcalls
 python-dotenv
